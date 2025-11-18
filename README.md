@@ -1,4 +1,4 @@
-## Hi i am Hamza 👋
+## Hi There, I'm Hamza  👋
 
 
 - 🔭 I’m currently working on hero-home App
