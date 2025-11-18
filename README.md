@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on hero-home App<br>🌱 I’m currently learning NextJs<br> 👯 I’m looking to collaborate on full-stack projects<br> 🤔 I’m looking for help with AI & ML integrations<br> 💬 Ask me about JavaScript, React, Next.js, Firebase, and Full-stack development<br>📧 Contact:pbnhamza@gmail.com<br> ⚡ Fun fact: I turn coffee into code… efficiently 😄.</p>
+<p align="left">🌱 I’m currently learning NextJs<br> 👯 I’m looking to collaborate on full-stack projects<br> 🤔 I’m looking for help with AI & ML integrations<br> 💬 Ask me about JavaScript, React, Next.js, Firebase, and Full-stack development<br>📧 Contact:pbnhamza@gmail.com<br> ⚡ Fun fact: I turn coffee into code… efficiently 😄.</p>
 
 ###
 
