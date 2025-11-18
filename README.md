@@ -89,11 +89,4 @@
 
 <p align="left">Hello World!!</p>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/pbnhamza/pbnhamza/output/snake.svg" alt="Snake animation" />
-
-###
 
